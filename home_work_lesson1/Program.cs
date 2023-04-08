@@ -1,2 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, 
+какое число большее, а какое меньшее.*/
+Console.Clear();
+Console.Write("Задайте первое значение ");
+int a = int.Parse(Console.ReadLine());
+Console.Write("Задайте второе значение ");
+int b = int.Parse(Console.ReadLine());
+
+if(a>b)
+{
+    Console.WriteLine($" Большее число = {a} \n Меньшее число = {b}");
+}else if(a==b)
+{
+    Console.WriteLine("Первое и второе значение равны");
+}else
+{
+    Console.WriteLine($" Большее число = {b} \n Меньшее число = {a}");
+}
+
+
+/*Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, 
+какое число большее, а какое меньшее.*/
