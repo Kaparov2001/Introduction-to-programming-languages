@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rasul/Desktop/geekbrains/Знакомства с языками программирования/Семинар/home_work_lesson3/home_work_lesson3.csproj": {}
+  },
+  "projects": {
+    "/Users/rasul/Desktop/geekbrains/Знакомства с языками программирования/Семинар/home_work_lesson3/home_work_lesson3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rasul/Desktop/geekbrains/Знакомства с языками программирования/Семинар/home_work_lesson3/home_work_lesson3.csproj",
+        "projectName": "home_work_lesson3",
+        "projectPath": "/Users/rasul/Desktop/geekbrains/Знакомства с языками программирования/Семинар/home_work_lesson3/home_work_lesson3.csproj",
+        "packagesPath": "/Users/rasul/.nuget/packages/",
+        "outputPath": "/Users/rasul/Desktop/geekbrains/Знакомства с языками программирования/Семинар/home_work_lesson3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rasul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.2.21505.57/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
